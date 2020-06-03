@@ -1,2 +1,2 @@
 # Hyperblog
-Simplemente es una pagina web con un estilo de css fenomenal
+Hojas de estilo y html
